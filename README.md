@@ -1,1 +1,1 @@
-# blue-green
+# eks-terraform
